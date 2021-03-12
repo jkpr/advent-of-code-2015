@@ -1,7 +1,5 @@
-from collections import Counter, defaultdict
+from collections import defaultdict
 from typing import List
-
-from ..utils import lines_to_int
 
 
 def move(current, direction):
